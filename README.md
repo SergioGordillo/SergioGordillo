@@ -10,32 +10,32 @@ Before my discovery of web development, I was working in different areas (IT Rec
 
 I am right now working as a freelance developer. My current projects:
 
-  · I am developing a website for a property management company. I am using HTML5 and CSS3, since the customer does not need more.
+  · I am developing a website for a property management company. I am using HTML5 and CSS3, since the customer does not need more. <br>
   · I am developing a project with Wordpress, in order to learn about this popular CMS, to write about job orientation for developers. 
   
 ### 🌱 I am currenty learning...
 
 I am improving the following technologies:
 
-  · JavaScript.
+  · JavaScript. <br>
   · PHP.
 
 I am learning these ones:
 
-  · Angular.
+  · Angular. <br>
   · Node.js.
   
 ### 👯 Languages I speak.
 
-  · Native Spanish.
-  · High English.
-  · High French.
-  · Intermediate Catalan.
+  · Native Spanish. <br>
+  · High English. <br>
+  · High French. <br>
+  · Intermediate Catalan. <br>
   · Basic German.
   
 ### 🌴 Fun facts
 
-  · I really love sports and I am a football fan.
+  · I really love sports and I am a football fan. <br>
   · I love travelling and I dream of becoming digital nomad, in order to be able to work while travelling.
   
 
