@@ -2,7 +2,7 @@
 
 ### 💬 About me.
 
-It is Sergio Gordillo. I am a Web Development Student (I have just left my internship and my final project, postponed due to the sanitary situation) and I am looking for work. I am right now available to work in Spain.
+It is Sergio Gordillo. I am a Web Development Student (I have just left my internship and my final project, postponed due to the sanitary situation) and I am looking for job. I am right now available to work in Spain.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
