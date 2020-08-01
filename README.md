@@ -22,6 +22,7 @@ I am improving the following technologies:
 
 I am learning these ones:
 
+  · Bootstrap <br>
   · Angular. <br>
   · Node.js.
   
