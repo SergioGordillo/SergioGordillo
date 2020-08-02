@@ -31,7 +31,7 @@ I started in July 2020 to work as a freelance web developer. Projects in progres
   · Node.js <br>
   · SAP Fiori.
   
-### 👯 Languages I speak.
+### 👯 Languages
 
   · Native Spanish. <br>
   · High English. <br>
