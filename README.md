@@ -23,7 +23,7 @@ I started in July 2020 to work as a freelance web developer. Projects in progres
   · PHP: basic. <br>
   · SQL: basic.
   
-### 🌱 Currently doing courses of...
+### 🌱 Currently taking courses on...
 
   · JavaScript. <br>
   · PHP. <br>
