@@ -2,30 +2,33 @@
 
 ### 💬 About me.
 
-It is Sergio Gordillo. I am a Web Development Student (I have just left my internship and my final project, postponed due to the sanitary situation) and I am looking for job. I am currently available to work in Spain.
+I am Sergio Gordillo, newly qualified web developer. Open to work.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
-### 👨🏽‍💻 I am currently working on...
+### 👨🏽‍💻 Professional Experience
 
-I am right now working as a freelance developer. My current projects:
+I started in July 2020 to work as a freelance web developer. Projects in progress:
 
   · I am developing a website for a property management company. I am using HTML5 and CSS3, since the customer does not need more. <br>
   · I am developing a project with Wordpress, in order to learn about this popular CMS, to write about job orientation for developers. 
   
-### 🌱 I am currenty learning...
+### ⚡ Skills
 
-I am improving the following technologies:
+  · HTML: basic. <br>
+  · CSS (Flexbox and Grid): basic. <br>
+  · Java SE: basic. <br>
+  · Java FX: basic. <br>
+  · JavaScript: basic. <br>
+  · PHP: basic. <br>
+  · SQL: basic.
+  
+### 🌱 Currently doing courses of...
 
   · JavaScript. <br>
-  · PHP.
-
-I am learning these ones:
-
-  · Bootstrap <br>
-  · JQuery <br>
-  · Angular. <br>
-  · Node.js. <br>
+  · PHP. <br>
+  · Angular <br>
+  · Node.js <br>
   · SAP Fiori.
   
 ### 👯 Languages I speak.
