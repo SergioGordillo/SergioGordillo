@@ -6,6 +6,8 @@ I am Sergio Gordillo, newly qualified web developer. Open to work.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
+You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev/?hl=es), where you can find more about my projects and technologies I am learning.
+
 ### 👨🏽‍💻 Professional Experience
 
 I started in July 2020 to work as a freelance web developer. Projects in progress:
