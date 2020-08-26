@@ -15,7 +15,7 @@ I started in July 2020 to work as a freelance web developer. <strong> Projects i
   · I am developing a website for a property management company. I am using HTML5, CSS3 and JS <br>
   · I am developing a project for a gold/silver purchase shop. I am collaborating with two more people, and I am giving support with HTML5, CSS3 and learning a little bit about Bootstrap and React. <br>
 
-Finished projects:
+<strong> Finished projects: </strong>
 
   · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress, just to learn about this popular CMS, and to enjoy writing about job orientation for developers.
   
