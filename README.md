@@ -13,11 +13,11 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 I started in July 2020 to work as a freelance web developer. <strong> Projects in progress: </strong>
 
   · I am developing a website for a property management company. I am using HTML5, CSS3 and JS <br>
-  · I am developing a project for a gold/silver purchase shop. I am collaborating with two more people, and I am giving support with HTML5, CSS3 and learning a little bit about Bootstrap and React. <br>
-
+ 
 <strong> Finished projects: </strong>
 
-  · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress, just to learn about this popular CMS, and to enjoy writing about job orientation for developers.
+  · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress (I also modified some elements using CSS), just to learn about this popular CMS, and to enjoy writing about job orientation for developers.
+  · I worked with a Senior Web Developer and with a UX/UI Designer to develop https://bocaoro.com/. I worked mainly with HTML5 and CSS3, and I learn some basics about React and Boostrap. <br>
   
 ### ⚡ Skills
 
