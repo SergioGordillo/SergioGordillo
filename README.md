@@ -10,7 +10,7 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### 👨🏽‍💻 Professional Experience
 
-I started in July 2020 to work as a freelance web developer. <br> <strong> Projects in progress: </strong>
+I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
 
   · I am developing a website for a property management company. I am using HTML5, CSS3 and JS <br>
  
