@@ -10,7 +10,7 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### 👨🏽‍💻 Professional Experience
 
-Since October 2020, I am doing an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I am working with PHP, MySQL and Microsoft Access. <br>
+Since October 2020, I am doing an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I am working with PHP, SQL, MySQL and Microsoft Access. <br>
 
 I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
 
