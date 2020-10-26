@@ -23,11 +23,13 @@ I started in July 2020 to work as a freelance web developer. <br> <br> <strong> 
   
 ### ⚡ Skills
 
-  · HTML: basic. <br>
-  · CSS (Flexbox and Grid): basic. <br>
+  · HTML: intermediate. <br>
+  · CSS (Flexbox and Grid): basic-intermediate. <br>
   · Java SE: basic. <br>
   · Java FX: basic. <br>
-  · JavaScript: basic. <br>
+  · JavaScript: basic-intermediate. <br>
+  · Node.js: basic. <br>
+  · Express.js: basic. <br>
   · PHP: basic. <br>
   · SQL: basic.
   
