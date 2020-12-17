@@ -10,10 +10,11 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### 👨🏽‍💻 Professional Experience
 
-Since October 2020, I am doing an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I am working with Node.js, Express.js, PHP, SQL, MySQL and Microsoft Access. <br>
+From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and also learned a little bit about Node.js and Express.js <br>
 
 I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
 
+  · I am working on a personal project, a Web CV. I am using HTML5, CSS3, Bootstrap 4 and JQuery <br>
   · I am developing a website for a property management company. I am using HTML5, CSS3 and JS <br>
  
 <strong> Finished projects: </strong>
@@ -30,17 +31,18 @@ I started in July 2020 to work as a freelance web developer. <br> <br> <strong> 
   · JavaScript: basic-intermediate. <br>
   · Node.js: basic. <br>
   · Express.js: basic. <br>
-  · PHP: basic. <br>
-  · SQL: basic.
+  · PHP: basic-intermediate <br>
+  · SQL: basic <br>
+  · MySQL: basic-intermediate <br>
+  · Bootstrap 4: basic.
   
 ### 🌱 Currently taking courses on...
 
   · HTML5 & CSS3 (Flexbox, Grid, SASS, LESS, animations...). <br>
   · Bootstrap 4 <br>
   · JavaScript. <br>
-  · Angular <br>
   · React <br>
-  · PHP. <br>
+
   
 ### 👯 Languages
 
