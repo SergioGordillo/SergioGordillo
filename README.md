@@ -14,49 +14,18 @@ From October 2020 till December 2020, I did an internship in Electrodomésticos 
 
 I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
 
-  · I am working on a personal project, a Web CV. I am using HTML5, CSS3, Bootstrap 4 and JQuery. <br>
   · I am developing a website for a property management company. I am using HTML5, CSS3 and JS. <br>
  
 <strong> Finished projects: </strong>
 
   · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress (I also modified some elements using CSS), just to learn about this popular CMS, and to enjoy writing about job orientation for developers. <br>
   · I worked with a Senior Web Developer and with an UX/UI Designer to develop https://bocaoro.com/. I worked mainly with HTML5 and CSS3, and I learn some basics about React and Boostrap. <br>
+   · I worked on a personal project, a Web CV. I am using HTML5, CSS3, Bootstrap 4 and JQuery. Check it out here: https://sergiogordillowebcv.web.app/ <br>
   
-### ⚡ Skills
+### ⚡ Tech Skills, Soft Skills, languages and more about me.
 
-  · HTML: intermediate. <br>
-  · CSS (Flexbox and Grid): basic-intermediate. <br>
-  · Java SE: basic. <br>
-  · Java FX: basic. <br>
-  · JavaScript: basic-intermediate. <br>
-  · Node.js: basic. <br>
-  · Express.js: basic. <br>
-  · PHP: basic-intermediate <br>
-  · SQL: basic <br>
-  · MySQL: basic-intermediate <br>
-  · Bootstrap 4: basic.
-  
-### 🌱 Currently taking courses on...
+If you want to know more about me and my professional profile, all the information is here: https://sergiogordillowebcv.web.app/. Thanks for your interest :)
 
-  · HTML5 & CSS3 (Flexbox, Grid, SASS, LESS, animations...). <br>
-  · Bootstrap 4 <br>
-  · JavaScript. <br>
-  · React <br>
-
-  
-### 👯 Languages
-
-  · Native Spanish. <br>
-  · High English. <br>
-  · High French. <br>
-  · Intermediate Catalan. <br>
-  · Basic German.
-  
-### 🌴 Fun facts
-
-  · I really love sports and I am a football fan. <br>
-  · I love travelling and I dream of becoming digital nomad, in order to be able to work while travelling.
-  
 
 
   
