@@ -2,13 +2,15 @@
 
 ### 💬 About me.
 
-I am Sergio Gordillo, newly qualified web developer. Open to work.
+I am Sergio Gordillo, Junior Software Engineer at Capgemini. 
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
 You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev/?hl=es) and Twitter (https://twitter.com/SGordilloDev) where you can find more about my projects and technologies I am learning.
 
 ### 👨🏽‍💻 Professional Experience
+
+Since January 2021 I am working as a Junior Software Engineer at Capgemini. I am working with React. The working language is English.
 
 From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
 
