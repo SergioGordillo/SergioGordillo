@@ -2,7 +2,7 @@
 
 ### 💬 About me.
 
-I am Sergio Gordillo, Junior Software Engineer at Capgemini. 
+I am Sergio Gordillo, Junior Software Engineer at Capgemini.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
@@ -10,7 +10,11 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### 👨🏽‍💻 Professional Experience
 
-Since January 2021 I am working as a Junior Software Engineer at Capgemini. I am working with React. The working language is English.
+Since January 2021 I am working as a Junior Software Engineer at Capgemini. 
+Technologies I am working with: React, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in Backend with Java EE, H2, SQL.
+Working language: English and French.
+Agile work methodologies and use of TDD in web development.
+100% remote work, international work team.
 
 From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
 
