@@ -30,7 +30,7 @@ I started in July 2020 to work as a freelance web developer. <br> <br> <strong> 
   
 ### ⚡ Tech Skills, Soft Skills, languages and more about me.
 
-If you want to know more about me and my professional profile, all the information is here: https://sergiogordillowebcv.web.app/. Thanks for your interest 😄
+If you want to know more about me and my professional profile, all the information is here: https://sergiogordillowebcv.web.app/ (not updated since December 2020). Thanks for your interest 😄
 
 
 
