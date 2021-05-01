@@ -20,7 +20,7 @@ From October 2020 till December 2020, I did an internship in Electrodomésticos 
 
 I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
 
-  · I am developing a website for a property management company. I am using HTML5, CSS3 and JS. <br>
+  · I am developing a website for a property management company. I was going to use HTML, CSS and JS, but I will change it for HTML, CSS and React. <br>
  
 <strong> Finished projects: </strong>
 
