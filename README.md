@@ -11,7 +11,7 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 ### 👨🏽‍💻 Professional Experience
 
 Since January 2021 I am working as a Junior Software Engineer at Capgemini. 
-Technologies I am working with: React, Node.js, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
+Technologies I am working with: React, Node.js, Express.js, Nest.js, Nest.js Testing, Devon4Node, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
 Working language: English and French.
 Agile work methodologies and use of TDD in web development.
 100% remote work, international work team.
