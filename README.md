@@ -14,7 +14,7 @@ Since January 2021 I am working as a Junior Software Engineer at Capgemini.
 Technologies I am working with: React, Node.js, Express.js, Nest.js, Nest.js Testing, Devon4Node, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
 Working language: English and French.
 Agile work methodologies in web development.
-100% remote work, international work team.
+100% remote work, international work team. <br>
 Currently learning in my free time more about React and getting started with Angular.
 
 From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
