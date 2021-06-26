@@ -11,17 +11,16 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 ### 👨🏽‍💻 Professional Experience
 
 Since January 2021 I am working as a Junior Software Engineer at Capgemini. 
-Technologies I am working with: React, Node.js, Express.js, Nest.js, Nest.js Testing, Devon4Node, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
+Technologies I am working with: React, Angular, Node.js, Express.js, Nest.js, Nest.js Testing, Devon4Node, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
 Working language: English and French.
 Agile work methodologies in web development.
 100% remote work, international work team. <br>
-Currently learning in my free time more about React and getting started with Angular.
 
 From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
 
 I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
 
-  · I am developing a website for a property management company. I was going to use HTML, CSS and JS, but I will change it for HTML, CSS and React. <br>
+  · I am developing a website for a property management company. I was going to use HTML, CSS and JS, but I will change it for HTML, CSS and Angular. <br>
  
 <strong> Finished projects: </strong>
 
