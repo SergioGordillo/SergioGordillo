@@ -2,7 +2,7 @@
 
 ### 💬 About me.
 
-I am Sergio Gordillo, Junior Software Engineer at Capgemini.
+I am Sergio Gordillo, Junior Software Engineer at Profile.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
