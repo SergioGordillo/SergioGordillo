@@ -10,7 +10,9 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### 👨🏽‍💻 Professional Experience
 
-Since January 2021 I am working as a Junior Software Engineer at Capgemini. 
+I am working currently as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client.
+
+Since January 2021 to August 2021 I worked as a Junior Software Engineer at Capgemini. 
 Technologies I am working with: React, Angular, Node.js, Express.js, Nest.js, Nest.js Testing, Devon4Node, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
 Working language: English and French.
 Agile work methodologies in web development.
@@ -31,6 +33,10 @@ I started in July 2020 to work as a freelance web developer. <br> <br> <strong> 
 ### ⚡ Tech Skills, Soft Skills, languages and more about me.
 
 If you want to know more about me and my professional profile, all the information is here: https://sergiogordillowebcv.web.app/ (not updated since December 2020). Thanks for your interest 😄
+
+About languages, all the info of https://sergiogordillowebcv.web.app/ is updated, but I am learning right now German and Czech, to have a more polivalent languages profile.
+
+
 
 
 
