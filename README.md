@@ -28,7 +28,7 @@ I started in July 2020 to work as a freelance web developer. <br> <br> <strong> 
 
   · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress (I also modified some elements using CSS), just to learn about this popular CMS, and to enjoy writing about job orientation for developers. <br>
   · I worked with a Senior Web Developer and with an UX/UI Designer to develop https://bocaoro.com/. I worked mainly with HTML5 and CSS3, and I learn some basics about React and Boostrap. <br>
-   · I worked on a personal project, a Web CV. I am using HTML5, CSS3, Bootstrap 4 and JQuery. Check it out here: https://sergiogordillowebcv.web.app/ <br>
+   · I worked on a personal project, a Web CV. I am using HTML5, CSS3, Bootstrap 4 and JQuery. Check it out here: https://sergiogordillowebcv.web.app/ (:warning: web not updated since December 2020) <br>
   
 ### ⚡ Tech Skills, Soft Skills, languages and more about me.
 
