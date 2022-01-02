@@ -8,7 +8,7 @@ Before my discovery of web development, I was working in different areas (IT Rec
 
 You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev/?hl=es) and Twitter (https://twitter.com/SGordilloDev) where you can find more about my projects and technologies I am learning.
 
-### 👨🏽‍💻 Professional Experience
+### :computer: Professional Experience
 
 I am working currently as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client.
 
