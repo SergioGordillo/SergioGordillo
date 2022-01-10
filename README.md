@@ -10,7 +10,7 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### :computer: Professional Experience
 
-I am working currently as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client.
+I am working currently as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client. <br>
 I am also working on a side project during my free time with a little team: Mariner Valley. Technologies: React, HTML, CSS, SASS, Node.js, Express.js. 
 You will be able with Mariner Valley of checking out all the info of your favourite cryptocurrencies in just one dashboard: cryptocurrency price, breaking news... 
 
