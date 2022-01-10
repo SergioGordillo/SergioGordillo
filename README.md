@@ -22,11 +22,11 @@ Agile work methodologies in web development.
 
 From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
 
-I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress: </strong>
+I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress as a freelance: </strong>
   
   · I am developing a website for a property management company. I was going to use HTML, CSS and JS, but I will change it for HTML, CSS and React. This project is stopped currently. <br>
  
-<strong> Finished projects: </strong>
+<strong> Finished projects as a freelance and side projects: </strong>
 
   · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress (I also modified some elements using CSS), just to learn about this popular CMS, and to enjoy writing about job orientation for developers. <br>
   · I worked with a Senior Web Developer and with an UX/UI Designer to develop https://bocaoro.com/. I worked mainly with HTML5 and CSS3, and I learn some basics about React and Boostrap. <br>
