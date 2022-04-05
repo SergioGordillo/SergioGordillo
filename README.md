@@ -2,7 +2,7 @@
 
 ### 💬 About me.
 
-I am Sergio Gordillo, Fullstack Developer between jobs.
+I am Sergio Gordillo, Frontend Developer at Secuoyas.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
@@ -10,7 +10,8 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### :computer: Professional Experience
 
-I am currently working on a side project during my free time with a little team: Mariner Valley. Technologies: React, Next.js, HTML, CSS, SASS, Node.js, Express.js. 
+I am currently working at Secuoyas as a Frontend Dev. Technologies: React.
+I am also currently working on a side project during my free time with a little team: Mariner Valley. Technologies: React, Next.js, HTML, CSS, SASS, Node.js, Express.js. 
 You will be able with Mariner Valley of checking out all the info of your favourite cryptocurrencies in just one dashboard: cryptocurrency price, breaking news... <br>
 I have been working until January 2022 as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client. <br>
 Since January 2021 to August 2021 I worked as a Junior Software Engineer at Capgemini. 
