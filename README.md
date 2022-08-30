@@ -10,10 +10,11 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### :computer: Professional Experience
 
-I am currently working at Secuoyas as a Frontend Dev. Technologies: Javascript, React, Gatsby, Styled Components, Storybook. <br>
+Disclaimer for you, IT Recruiter/Developer: if you read my profile, you can think that I am a job hopper. It will be a pleasure to tell you the story about my recent changes of companies.
+Frontend Developer working currently on personal projects and ending up Lemoncoders Frontend Master Degree (https://lemoncode.net/master-frontend#inicio-banner). Open to new opportunities, specially interested in working abroad or in international projects.
 
-I am also currently working on a side project during my free time with a little team: Mariner Valley. Technologies: React, Next.js, HTML, CSS, SASS, Node.js, Express.js. 
-You will be able with Mariner Valley of checking out all the info of your favourite cryptocurrencies in just one dashboard: cryptocurrency price, breaking news... <br>
+I have been working at Secuoyas as a Frontend Dev from April 2022 until August 2022. Working on the development and maintenance of a Griddo components library (https://www.youtube.com/watch?v=roIWf7iDDO0) adapted to a client.
+Technologies: Javascript, React, Styled Components, CSS, Storybook, Webpack. <br>
 
 I have been working until January 2022 as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client. <br>
 
@@ -24,10 +25,6 @@ Agile work methodologies in web development.
 100% remote work, international work team. <br>
 
 From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
-
-I started in July 2020 to work as a freelance web developer. <br> <br> <strong> Projects in progress as a freelance: </strong>
-  
-  · I am developing a website for a property management company. I was going to use HTML, CSS and JS, but I will change it for HTML, CSS and React. This project is stopped currently. <br>
  
 <strong> Finished projects as a freelance and side projects: </strong>
 
