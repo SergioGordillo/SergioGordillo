@@ -2,7 +2,7 @@
 
 ### 💬 About me.
 
-I am Sergio Gordillo, Frontend Developer between jobs.
+I am Sergio Gordillo, Fullstack Developer working at Sopra Steria.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
@@ -10,8 +10,7 @@ You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev
 
 ### :computer: Professional Experience
 
-Disclaimer for you, IT Recruiter/Developer: if you read my profile, you can think that I am a job hopper. It will be a pleasure to tell you the story about my recent changes of companies.
-Frontend Developer working currently on personal projects and ending up Lemoncoders Frontend Master Degree (https://lemoncode.net/master-frontend#inicio-banner). Open to new opportunities, specially interested in working abroad or in international projects.
+Fullstack Developer working currently at Sopra Steria and ending up Lemoncoders Frontend Master Degree (https://lemoncode.net/master-frontend#inicio-banner).
 
 I have been working at Secuoyas as a Frontend Dev from April 2022 until August 2022. Working on the development and maintenance of a Griddo components library (https://www.youtube.com/watch?v=roIWf7iDDO0) adapted to a client.
 Technologies: Javascript, React, Styled Components, CSS, Storybook, Webpack. <br>
