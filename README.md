@@ -6,7 +6,7 @@ I am Sergio Gordillo, Fullstack Developer working at Sopra Steria.
 
 Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
 
-You can also follow me in Instagram (https://www.instagram.com/sergiogordillodev/?hl=es) and Twitter (https://twitter.com/SGordilloDev) where you can find more about my projects and technologies I am learning.
+You can also follow me in X (https://x.com/SGordilloDev) where you can find more about my projects and technologies I am learning.
 
 ### :computer: Professional Experience
 
