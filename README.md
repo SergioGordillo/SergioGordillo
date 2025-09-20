@@ -1,41 +1,50 @@
-### Hi there, Welcome to my GitHub 👋
+# Hi there 👋 Welcome to my GitHub
 
-### 💬 About me.
+## 💬 About me
+I am **Sergio Gordillo**, a **Fullstack Developer** with 4+ years of professional experience in international environments.  
+I specialize in **TypeScript, Angular, React and Node.js**, building modern, scalable applications with a focus on clean code and user experience.  
 
-I am Sergio Gordillo, Fullstack Developer working at Sopra Steria.
+With a background in **Psychology and IT Recruitment**, I bring strong communication skills and a global vision that help me contribute effectively to diverse teams.  
+I work fluently in **Spanish, English and French**, and I’m currently learning **German**.  
 
-Before my discovery of web development, I was working in different areas (IT Recruitment, Sport Psychology) since I studied Psychology. That means I can add a differential value when carrying out software development projects.
+---
 
-You can also follow me in X (https://x.com/SGordilloDev) where you can find more about my projects and technologies I am learning.
+## 💻 Professional Experience
+- **Fullstack Developer @ Sopra Steria** *(Apr 2023 – Currently)* 
+  Working on software solutions for insurance and healthcare sectors.  
+  Main stack: **Angular, TypeScript, .NET, Java, SQL, Docker**.  
+  Daily collaboration with international teams in France.  
 
-### :computer: Professional Experience
+- **Frontend Developer @ Secuoyas** *(Apr 2022 – Aug 2022)*  
+  Development and maintenance of **Griddo** component libraries with **React, JavaScript, Styled Components, CSS, Storybook, Webpack**.  
 
-Fullstack Developer working currently at Sopra Steria and ending up Lemoncoders Frontend Master Degree (https://lemoncode.net/master-frontend#inicio-banner).
+- **Frontend Developer @ Profile Software Services** *(Aug 2021 – Jan 2022)*  
+  Angular development for an insurance project, using a custom component library.  
 
-I have been working at Secuoyas as a Frontend Dev from April 2022 until August 2022. Working on the development and maintenance of a Griddo components library (https://www.youtube.com/watch?v=roIWf7iDDO0) adapted to a client.
-Technologies: Javascript, React, Styled Components, CSS, Storybook, Webpack. <br>
+- **Junior Software Engineer @ Capgemini** *(Jan 2021 – Aug 2021)*  
+  Projects with **React, Angular, Node.js, Express, Nest.js, TypeScript, Jest, SCSS, Material UI, Jenkins**.  
+  Occasional backend support with **Java EE and SQL**.  
+  100% remote, international team (English & French).  
 
-I have been working until January 2022 as a Frontend Developer at Profile, working in a project of the insurance area, using Angular with a library of components of the client. <br>
+---
 
-Since January 2021 to August 2021 I worked as a Junior Software Engineer at Capgemini. 
-Technologies I am working with: React, Angular, Node.js, Express.js, Nest.js, Nest.js Testing, Devon4Node, JavaScript, TypeScript, Jest, Enzyme, React Testing Library, SASS, SCSS, HTML, CSS, Material UI, Jenkins, Git. Occasional support in "old" Backend with other technologies such as Java EE, H2, SQL.
-Working language: English and French.
-Agile work methodologies in web development.
-100% remote work, international work team. <br>
+## ⚡ Tech Stack
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3, SCSS, Styled Components  
+- **Backend:** Node.js, Express, .NET, Java, SQL  
+- **Tools & Others:** Git, Docker, REST APIs, Agile, Jenkins  
 
-From October 2020 till December 2020, I did an internship in Electrodomésticos Bombay (Ciudad Real, Spain), as a Junior Backend Developer, developing an automatized system to manage orders and providers of the company. I worked mainly with PHP, SQL, MySQL and Microsoft Access, and I also learned a little bit about Node.js and Express.js. <br>
- 
-<strong> Finished projects as a freelance and side projects: </strong>
+---
 
-  · Algoritmo Salvaje (https://www.algoritmosalvaje.com/): developed with Wordpress (I also modified some elements using CSS), just to learn about this popular CMS, and to enjoy writing about job orientation for developers. <br>
-  · I worked with a Senior Web Developer and with an UX/UI Designer to develop https://bocaoro.com/. I worked mainly with HTML5 and CSS3, and I learn some basics about React and Boostrap. <br>
-   · I worked on a personal project, a Web CV. I am using HTML5, CSS3, Bootstrap 4 and JQuery. Check it out here: https://sergiogordillowebcv.web.app/ (:warning: web not updated since December 2020) <br>
-  
-### ⚡ Tech Skills, Soft Skills, languages and more about me.
+## 📌 Focus
+Currently consolidating my expertise in **React, Angular and Node.js**.  
 
-If you want to know more about me and my professional profile, all the information is here: https://sergiogordillowebcv.web.app/ (:warning: web not updated since December 2020). Thanks for your interest 😄
+---
 
-About languages, all the info of https://sergiogordillowebcv.web.app/ is updated, but I am learning currently German and Czech, to have a more polivalent languages profile.
+## 🔗 Connect
+- GitHub: [github.com/SergioGordillo](https://github.com/SergioGordillo)  
+- LinkedIn: [linkedin.com/in/sergio-gordillo]([https://www.linkedin.com/in/sergio-gordillo](https://www.linkedin.com/in/sergio-miguel-g-17108b52/?locale=en_US))  
+- X / Twitter: [@SGordilloDev](https://x.com/SGordilloDev)  
+
 
 
 
