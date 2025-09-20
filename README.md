@@ -42,7 +42,7 @@ Currently consolidating my expertise in **React, Angular and Node.js**.
 
 ## 🔗 Connect
 - GitHub: [github.com/SergioGordillo](https://github.com/SergioGordillo)  
-- LinkedIn: [linkedin.com/in/sergio-gordillo]([https://www.linkedin.com/in/sergio-gordillo](https://www.linkedin.com/in/sergio-miguel-g-17108b52/?locale=en_US))  
+- LinkedIn: [linkedin.com/in/sergio-gordillo](https://www.linkedin.com/in/sergio-miguel-g-17108b52/?locale=en_US)
 - X / Twitter: [@SGordilloDev](https://x.com/SGordilloDev)  
 
 
