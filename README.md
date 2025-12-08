@@ -22,7 +22,6 @@ I am looking to further specialize in the **React + Next.js + Node.js + Express.
 ## 🔗 Connect
 - GitHub: [github.com/SergioGordillo](https://github.com/SergioGordillo)  
 - LinkedIn: [linkedin.com/in/sergio-gordillo](https://www.linkedin.com/in/sergio-miguel-g-17108b52/?locale=en_US)
-- X / Twitter: [@SGordilloDev](https://x.com/SGordilloDev)  
 
 
 
