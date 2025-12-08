@@ -2,41 +2,20 @@
 
 ## 💬 About me
 I am **Sergio Gordillo**, a **Fullstack Developer** with 4+ years of professional experience in international environments.  
-I specialize in **TypeScript, Angular, React and Node.js**, building modern, scalable applications with a focus on clean code and user experience.  
+I specialize in **TypeScript, React and Node.js**, building modern, scalable applications with a focus on clean code and user experience. Also with experience with Angular & .NET.
 
 With a background in **Psychology and IT Recruitment**, I bring strong communication skills and a global vision that help me contribute effectively to diverse teams.  
 I work fluently in **Spanish, English and French**, and I’m currently learning **German**.  
 
----
-
-## 💻 Professional Experience
-- **Fullstack Developer @ Sopra Steria** *(Apr 2023 – Currently)* 
-  Working on software solutions for insurance and healthcare sectors.  
-  Main stack: **Angular, TypeScript, .NET, Java, SQL, Docker**.  
-  Daily collaboration with international teams in France.  
-
-- **Frontend Developer @ Secuoyas** *(Apr 2022 – Aug 2022)*  
-  Development and maintenance of **Griddo** component libraries with **React, JavaScript, Styled Components, CSS, Storybook, Webpack**.  
-
-- **Frontend Developer @ Profile Software Services** *(Aug 2021 – Jan 2022)*  
-  Angular development for an insurance project, using a custom component library.  
-
-- **Junior Software Engineer @ Capgemini** *(Jan 2021 – Aug 2021)*  
-  Projects with **React, Angular, Node.js, Express, Nest.js, TypeScript, Jest, SCSS, Material UI, Jenkins**.  
-  Occasional backend support with **Java EE and SQL**.  
-  100% remote, international team (English & French).  
-
----
-
 ## ⚡ Tech Stack
-- **Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3, SCSS, Styled Components  
-- **Backend:** Node.js, Express, .NET, Java, SQL  
-- **Tools & Others:** Git, Docker, REST APIs, Agile, Jenkins  
+- **Frontend:** +5 years of experience (React, Angular, TypeScript, JavaScript).
+- **Backend:** +3 years of experience (Node.js, Express, .NET, SQL, MongoDB). 
+- **Tools & Others:** Git, Docker, REST APIs, Agile.  
 
 ---
 
 ## 📌 Focus
-Currently consolidating my expertise in **React, Angular and Node.js**.  
+I am looking to further specialize in the **React + Next.js + Node.js + Express.js ecosystem**. 
 
 ---
 
