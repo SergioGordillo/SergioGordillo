@@ -8,7 +8,7 @@ With a background in **Psychology and IT Recruitment**, I bring strong communica
 I work fluently in **Spanish, English and French**, and I’m currently learning **German**.  
 
 ## ⚡ Tech Stack
-- **Frontend:** +5 years of experience (React, Angular, TypeScript, JavaScript).
+- **Frontend:** +5 years of experience (React, Next.js, Angular, TypeScript, JavaScript).
 - **Backend:** +3 years of experience (Node.js, Express, .NET, SQL, MongoDB). 
 - **Tools & Others:** Git, Docker, REST APIs, Agile.  
 
