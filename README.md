@@ -2,7 +2,7 @@
 
 ## 💬 About me
 I am **Sergio Gordillo**, a **Fullstack Developer** with 5+ years of professional experience in international environments.  
-I specialize in **TypeScript, React and Node.js**, building modern, scalable applications with a focus on clean code and user experience. Also with experience with Angular & .NET.
+I specialize in **TypeScript, React, Next.js and Node.js**, building modern, scalable applications with a focus on clean code and user experience. Also with experience with Angular & .NET.
 
 With a background in **Psychology and IT Recruitment**, I bring strong communication skills and a global vision that help me contribute effectively to diverse teams.  
 I work fluently in **Spanish, English and French**, and I’m currently learning **German**.  
